@@ -1,0 +1,5 @@
+2020-08-18 16:38:58 INFO  UserServices:28 - Your balance is 35.0
+2020-08-18 16:43:51 INFO  UserServices:28 - Your balance is 37.0
+2020-08-18 16:44:08 INFO  UserServices:43 - Your Balance after withdraw is: 30.0
+2020-08-18 22:45:45 INFO  UserServices:28 - Your balance is 10.0
+2020-08-18 22:47:22 INFO  UserServices:43 - Your Balance after withdraw is: 800.0
